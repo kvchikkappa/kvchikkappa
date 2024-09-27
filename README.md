@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Kavi Chikkappa
+- 🔭 I’m currently working on several projects in predictive modeling, forecasting and time-series analysis, Bayesian statistical modeling, etc.
+
 
 <!--
 **kvchikkappa/kvchikkappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
