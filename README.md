@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Kavi Chikkappa
 - I’m currently working on several projects in predictive modeling, forecasting/ time-series analysis, Bayesian statistical modeling, and more.
 - I'm a recent graduate from Rutgers University New Brunswick with a Bachelor's in Statistics/ Mathematics, minor in Quantitative Economics.
+- I work with R and Python
 
 <!--
 **kvchikkappa/kvchikkappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
