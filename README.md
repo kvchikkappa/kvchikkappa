@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Kavi Chikkappa
 - I’m currently working on several projects in predictive modeling, forecasting/ time-series analysis, Bayesian modeling, and more.
-- I'm a recent graduate from Rutgers University New Brunswick with a Bachelor's in Statistics/ Mathematics, minor in Quantitative Economics.
+- I'm a recent graduate with a Bachelor's degree from Rutgers University - New Brunswick.
+- I studied Statistics, Mathematics, and Quantitative Economics
 - I work with R and Python
 
 <!--
