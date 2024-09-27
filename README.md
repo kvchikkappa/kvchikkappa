@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Kavi Chikkappa
-- 🔭 I’m currently working on several projects in predictive modeling, forecasting and time-series analysis, Bayesian statistical modeling, etc.
-
+- I’m currently working on several projects in predictive modeling, forecasting and time-series analysis, Bayesian statistical modeling, and more.
+- I'm a recent graduate from Rutgers University New Brunswick with a Bachelor's in Statistics/ Mathematics and a minor in Quantitative Economics
 
 <!--
 **kvchikkappa/kvchikkappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
