@@ -2,7 +2,7 @@
 - I’m currently working on several projects in predictive modeling, forecasting, time-series analysis, Bayesian modeling, and more
 - I'm a recent graduate with a Bachelor's degree from Rutgers University - New Brunswick
 - I majored in Statistics/ Mathematics and minored in Quantitative Economics
-- I work primarily with R and Python
+- I work primarily with R and Python and have some experience with SAS, MATLAB, and UNIX 
 
 <!--
 **kvchikkappa/kvchikkappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
